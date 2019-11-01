@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Dicee
 //
-//  Created by Mac on 10/20/19.
+//  Created by Fady Magdy on 10/20/19.
 //  Copyright © 2019 Mob.Fady. All rights reserved.
 //
 
